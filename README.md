@@ -1,6 +1,4 @@
-# ce-rocks
-
-## Desafio Go
+# Desafio Go
 
 ### Docker Hub
 
