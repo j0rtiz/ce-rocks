@@ -1,2 +1,9 @@
 # ce-rocks
-Desafio Go
+
+## Desafio Go
+
+### Docker Hub
+
+```bash
+docker run j0rtiz/codeeducation
+```
